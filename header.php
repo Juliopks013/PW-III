@@ -11,7 +11,7 @@
 
     <nav class="navbar navbar-expand-lg bg-custom">
     <div class="container-fluid">
-          <a class="navbar-brand" href="#">
+          <a class="navbar-brand" href="index.php">
             <img src="https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-2/135/_Pokeball-512.png" width="30">
             Pokemon
           </a>
@@ -29,7 +29,7 @@
                 </a>
                 <ul class="dropdown-menu">
                   <li>
-                    <a class="dropdown-item" href="#">
+                    <a class="dropdown-item" href="pikachu.php">
                         <img src="https://cdn0.iconfinder.com/data/icons/pokemon-go-vol-2/135/_pikachu-512.png" width="25px">Pikachu
                     </a></li>
                   <li><a class="dropdown-item" href="#">

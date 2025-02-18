@@ -13,6 +13,9 @@
                     <img src="https://wallpapersok.com/images/high/pikachu-pokemon-4k-ccyz36l7m34fq1w7.jpg" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
+                    <img src="https://www.hdwallpapers.in/download/pikachu_in_green_background_4k_hd_pikachu-HD.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
                     <img src="https://wallpapers.com/images/hd/pikachu-4k-word-art-srq8cae70g543sp4.jpg" class="d-block w-100" alt="...">
                 </div>
                 </div>
