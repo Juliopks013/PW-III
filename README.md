@@ -6,4 +6,4 @@ Repositório da aula de Programação Web III
 
 ---
 
-Desenvolvedor: Diogo Paulino
+Desenvolvedor: Julio Paques
